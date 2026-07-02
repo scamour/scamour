@@ -8,16 +8,18 @@
 
 $${\color{#c6e4f7}══════════════════}$$
 
+<h3 align="center">
 $\color{#3742c4}{atabook}$ ₊˚‧ ۶ৎ ˚. $\color{#e0141b}{strawpage}$
+</h3>
 </a>
 
 <a href="https://scamour.atabook.org/">
-    <img width="50" height="50"
+    <img width="60" height="60"
          src="https://media.discordapp.net/attachments/1415996741315989575/1522185158873055344/d7ec661083bfd49fb82de625091e5bc1-removebg-preview.png?ex=6a478ce6&is=6a463b66&hm=ff1b32459cdce22d0c5a5cd3157003d6a286cefec219a076cd2116997cee9257&=&format=webp&quality=lossless" />
 </a>
 &nbsp;&nbsp;
 <a href="https://thekitchenstove.straw.page/">
-    <img width="50" height="50"
+    <img width="60" height="60"
          src="https://media.discordapp.net/attachments/1415996741315989575/1522185158403424437/1775471933413-removebg-preview.png?ex=6a478ce6&is=6a463b66&hm=1c87522edf38c7f57ff929436bfa9ff9c6d4b4c26571b5d97202a6f6c203648d&=&format=webp&quality=lossless" />
 </a>
 <br>
